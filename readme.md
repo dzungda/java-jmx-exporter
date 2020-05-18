@@ -3,7 +3,7 @@
 ## Requirement
 * `prometheus` server to collect metrics
 * `jmx_exporter` run as a Java Agent exposing a HTTP server and serving metrics of the local JVM
-* `grafana` dashboard for visualization 
+* `grafana` dashboard for visualization runnung on port `3000`
 * `Java` application example
 
 ## Dockerfile
