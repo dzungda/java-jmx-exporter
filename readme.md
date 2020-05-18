@@ -43,7 +43,7 @@ scrape_configs:
 
 
 
-### Grafana 
+### JMX Grafana dashboard
 Using `jmx_exporter.json` for this dashboard
 
 ![](./pic/grafana.PNG)
