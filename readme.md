@@ -41,12 +41,9 @@ scrape_configs:
         - 127.0.0.1:8082
 ```
 
-## Result
 
-### Promrtheus 
-![](./pic/prometheus.jpg)
 
 ### Grafana 
 Using `jmx_exporter.json` for this dashboard
 
-![](./pic/grafana.jpg)
+![](./pic/grafana.PNG)
