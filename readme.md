@@ -43,7 +43,10 @@ scrape_configs:
 
 ## Result
 
+### Promrtheus 
+![](./pic/prometheus.jpg)
 
+### Grafana 
+Using `jmx_exporter.json` for this dashboard
 
-
-
+![](./pic/grafana.jpg)
